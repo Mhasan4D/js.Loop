@@ -4,7 +4,7 @@ for(let i=1;i<20; i+=2){
    console.log(i)
 }
 
-give me the list numbers 1 to thirty 30 divisible by 5
+// give me the list numbers 1 to thirty 30 divisible by 5
 
 for(let i=1; i<=30; i++){
 if(i%5===0)
