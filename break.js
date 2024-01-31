@@ -1,12 +1,12 @@
 
-// for(let i=0;i<150;i++){
+for(let i=0;i<150;i++){
 
-//     console.log(i);
-//     if(i>=10){
-//       break;  
-//     }
+    console.log(i);
+    if(i>=10){
+      break;  
+    }
 
-// }
+}
 
 let n=54;
 

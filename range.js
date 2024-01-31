@@ -1,12 +1,13 @@
-// let num=1;
+let num =1;
 
-// while(num<10){
+while(num<10){
 
-//     console.log(num)
+    console.log(num);
    
-//    num++; 
+   num++; 
 
-// }
+}
+
 
 let num=50;
 
